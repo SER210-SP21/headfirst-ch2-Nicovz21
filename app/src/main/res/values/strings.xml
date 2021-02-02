@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcActivity</string>
+    <string-array name="operations">
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
